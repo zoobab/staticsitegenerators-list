@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # Static Site Generators Listing
 
 [![Build Status](https://api.travis-ci.org/bevry/staticsitegenerators-list.svg?branch=master)](https://travis-ci.org/bevry/staticsitegenerators-list)
